@@ -1,8 +1,8 @@
-### Olá! Me chamo Thallys Yon
+### Hey! My name is Thallys Yon
 
-- 🔭 Atualmente sou desenvolvedor android nativo
-- 🌱 Estou estudando desenvolvimento Mobile com Java e Kotlin
-- 📫 Contate-me no e-mail: thallyayon@gmail.com
+- 🔭 I'm currently a native android developer
+- 🌱 I'm studying Mobile development with Java and Kotlin
+- 📫 Contact me on email: thallyayon@gmail.com
 
 <div>
    <a href="https://github.com/thallysYon">
