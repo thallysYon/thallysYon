@@ -1,7 +1,6 @@
 ### Hey! My name is Thallys Yon
 
 - 🔭 I'm currently a native android developer
-- 🌱 I'm studying Mobile development with Java and Kotlin
 - 📫 Contact me on email: thallyayon@gmail.com
 
 <div>
