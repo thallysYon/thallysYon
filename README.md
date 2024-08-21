@@ -1,7 +1,7 @@
 ### Hey! My name is Thallys Yon
 
-- 🔭 I'm currently a native android developer
-- 📫 Contact me on email: thallyayon@gmail.com
+- 🔭 I'm currently an IT intern.
+- 📫 Contact me on email: thallysyon@hotmail.com
 
 <div>
    <a href="https://github.com/thallysYon">
