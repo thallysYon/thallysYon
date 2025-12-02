@@ -74,8 +74,8 @@ ASP.NET MVC • Entity Framework Core • APIs REST • Boas práticas • Arqui
 ## <h3 align="center">🚧 Projetos</h3>
 
 <p align="center">
-🔗 <strong>Lista de projetos será adicionada em breve!</strong><br>
-<i>(Organizando e publicando repositórios.)</i>
+<strong>Projeto - TaskList (Lista de tarefas):</strong><br>
+    <i>Disponível em:</i> https://listadetarefas20251202174309-cnfhetb9a4c4akbe.canadacentral-01.azurewebsites.net/
 </p>
 
 
