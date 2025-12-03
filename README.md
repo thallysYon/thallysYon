@@ -93,8 +93,7 @@ ASP.NET MVC • Entity Framework Core • APIs REST • Boas práticas • Arqui
 ## <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thallysYon&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallysYon&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://streak-stats.demolab.com/?user=thallysYon&theme=tokyonight&hide_border=true" />
 </p>
 
 
