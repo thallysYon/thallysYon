@@ -13,8 +13,6 @@ Possuo experiência prévia como <strong>Suporte de TI</strong> e estou buscando
 
 ## <h3 align="center">🛠 Tecnologias</h3>
 
-<p align="center"><strong>Algumas tecnologias que utilizo:</strong></p>
-
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -61,8 +59,6 @@ Possuo experiência prévia como <strong>Suporte de TI</strong> e estou buscando
     </td>
   </tr>
 </table>
-
-
 
 ## <h3 align="center">📚 No momento aprendendo</h3>
 
@@ -112,6 +108,3 @@ ASP.NET MVC • Entity Framework Core • APIs REST • Boas práticas • Arqui
 <p align="center">
 🎬 <strong>“A obsessão vence o talento, todas as vezes.” — Hustle (Arremessando Alto)</strong>
 </p>
-
-
-meus stats nao estão aparecendo
