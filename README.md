@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠 Tecnologias (Stack Principal)
+### 🛠 Tecnologias
 
 <table align="center">
   <tr>
