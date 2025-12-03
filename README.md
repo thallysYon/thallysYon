@@ -56,11 +56,11 @@
 ### 🚧 Projetos (Veja meu trabalho!)
 
 <p>
-    <a href="https://listadetarefas20251202174309-cnfhetb9a4c4akbe.canadacentral-01.azurewebsites.net/">Projeto - TaskList (Lista de tarefas)</a>
+    <a href="https://listadetarefas20251202174309-cnfhetb9a4c4akbe.canadacentral-01.azurewebsites.net/">Projeto - TaskList</a>
 </p>
 
 <p> 
-  <a href="https://github.com/thallysYon/ListaDeTarefas">Repositório - TaskList (Lista de tarefas)</a>
+  <a href="https://github.com/thallysYon/ListaDeTarefas">Repositório - TaskList</a>
 </p>
 
 ---
