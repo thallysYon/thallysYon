@@ -101,6 +101,12 @@ ASP.NET MVC • Entity Framework Core • APIs REST • Boas práticas • Arqui
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thallysYon/thallysYon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thallysYon/thallysYon/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thallysYon/thallysYon/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p>
 🎬 <strong>“A obsessão vence o talento, todas as vezes.” — Hustle (Arremessando Alto)</strong>
 </p>
