@@ -3,8 +3,10 @@
 ## Bem-vindo(a) ao meu perfil!
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=00ADEF&center=true&vCenter=true&width=500&lines=C%23+%7C+ASP.NET+%7C+Entity+Framework" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=00ADEF&center=true&vCenter=true&width=600&lines=C%23+%7C+ASP.NET+%7C+Entity+Framework;MySQL+%7C+SQL+Server" />
 </p>
+
+
 
 ---
 
