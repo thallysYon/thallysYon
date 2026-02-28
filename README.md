@@ -57,12 +57,6 @@
 
 ### 🚧 Projetos (Veja meu trabalho!)
 
-<p>
-    <a href="https://listadetarefas20251202174309-cnfhetb9a4c4akbe.canadacentral-01.azurewebsites.net/](https://gestao-de-sucata.azurewebsites.net/)](https://gestao-de-sucata.azurewebsites.net/">Projeto - Gestão de Sucata</a>
-</p>
-<p>Usuário de testes: teste@gmail.com</p>
-<p>Senha do usuário de testes: Teste@123</p>
-
 <p> 
   <a href="https://github.com/thallysYon/ListaDeTarefas">Repositório - TaskList</a>
   
