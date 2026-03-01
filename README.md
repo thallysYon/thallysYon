@@ -67,8 +67,8 @@
 ### 😎 Sobre mim
 
 <p>
-Olá! Sou <strong>Thallys Yon</strong>, estudante de desenvolvimento focado no ecossistema .NET.<br>
-Possuo experiência prévia como <strong>Suporte de TI</strong> e estou buscando minha primeira oportunidade na área de desenvolvimento.
+Olá! Sou <strong>Thallys Yon</strong>, desenvolvedor focado no ecossistema .NET.<br>
+Possuo experiência prévia como <strong>Suporte de TI</strong> e estou atuando atualmente como dev pra micro empresários.
 </p>
 
 ---
@@ -76,7 +76,7 @@ Possuo experiência prévia como <strong>Suporte de TI</strong> e estou buscando
 ### 📚 No momento aprendendo
 
 <p>
-ASP.NET MVC • Entity Framework Core • APIs REST • Boas práticas • Arquitetura de software
+Arquitetura de software e escalabilidade
 </p>
 
 ---
