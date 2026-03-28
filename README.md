@@ -68,7 +68,6 @@
 
 <p>
 Olá! Sou <strong>Thallys Yon</strong>, desenvolvedor focado no ecossistema .NET.<br>
-Possuo experiência prévia como <strong>Suporte de TI</strong> e estou atuando atualmente como dev pra micro empresários.
 </p>
 
 ---
