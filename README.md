@@ -55,27 +55,10 @@
 
 ---
 
-### 🚧 Projetos (Veja meu trabalho!)
-
-<p> 
-  <a href="https://github.com/thallysYon/ListaDeTarefas">Repositório - TaskList</a>
-  
-</p>
-
----
-
 ### 😎 Sobre mim
 
 <p>
 Olá! Sou <strong>Thallys Yon</strong>, desenvolvedor focado no ecossistema .NET.<br>
-</p>
-
----
-
-### 📚 No momento aprendendo
-
-<p>
-Arquitetura de software e escalabilidade
 </p>
 
 ---
